@@ -1,2 +1,2 @@
-# Python-Projects
-Python-Projects
+# Python Pygame
+Python Pygame
